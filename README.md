@@ -10,6 +10,8 @@ My name is Albert, I'm from Spain and I'm a FAKE IT man.
 * NumPy. Check NumPy & Algebra Foundations [https://github.com/albertgilopez/data-science-numpy-algebra]
 * Estadística. Check Descriptive and Inferential Statistics [https://github.com/albertgilopez/data-science-estadistica]
 * Pandas. Check Pandas Foundations [https://github.com/albertgilopez/data-science-pandas]
+* Business Analytics [https://github.com/albertgilopez/data-science-business-analytics]
+* Machine Learning [https://github.com/albertgilopez/data-science-machine-learning]
 
 ## Projects
 
