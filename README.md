@@ -13,11 +13,14 @@ My name is Albert, I'm from Spain and I'm a FAKE IT man.
 * Business Analytics [https://github.com/albertgilopez/data-science-business-analytics]
 * Machine Learning [https://github.com/albertgilopez/data-science-machine-learning]
 
-## Projects
+## Data Projects
 
 * Análisis Optimización CRO eCommerce [https://github.com/albertgilopez/analisis-optimizacion-cro-ecommerce]
 * Análisis para la Detección de Ineficiencias en Plantas Solares [https://github.com/albertgilopez/analisis-deteccion-ineficiencias-planta-solar]
 * Análisis del Mercado Inmobiliario para Alquiler Turístico en Madrid [https://github.com/albertgilopez/analisis-mercado-inmobiliario-alquiler-turistico]
+
+## AI Projects
+* ChatBot de WhatsApp con IA [https://github.com/albertgilopez/chatbot-ai]
   
 ## Contact
 
