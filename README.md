@@ -21,6 +21,7 @@ My name is Albert, I'm from Spain and I'm a FAKE IT man.
 
 ## AI Projects
 * ChatBot de WhatsApp con IA [https://github.com/albertgilopez/chatbot-ai]
+* Deploy app LLM Gemini con LangChain y Cloud Run [https://github.com/albertgilopez/gen-ai-app-deploy-langchain-cloud-run]
   
 ## Contact
 
